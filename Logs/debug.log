@@ -1,0 +1,27 @@
+{"level":"info","message":"Running on Node.js - Version 16.0.0","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 10 Build 291","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"User Data Directory - \"/home/nightstick/www/jake-foundry/data\"","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"Saved application configuration options to /home/nightstick/www/jake-foundry/data/Config/options.json","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"adminPassword\": null\n}","timestamp":"2023-01-08 08:20:11"}
+{"level":"warn","message":"Software license requires signature.","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30001","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"Server started and listening on port 30001","timestamp":"2023-01-08 08:20:11"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2023-01-08 08:21:17"}
+{"level":"info","message":"Running on Node.js - Version 16.0.0","timestamp":"2023-01-08 08:21:18"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 10 Build 291","timestamp":"2023-01-08 08:21:18"}
+{"level":"info","message":"User Data Directory - \"/home/nightstick/www/jake-foundry/data\"","timestamp":"2023-01-08 08:21:18"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"adminPassword\": null\n}","timestamp":"2023-01-08 08:21:18"}
+{"level":"warn","message":"Software license requires signature.","timestamp":"2023-01-08 08:21:18"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30001","timestamp":"2023-01-08 08:21:18"}
+{"level":"info","message":"Server started and listening on port 30001","timestamp":"2023-01-08 08:21:18"}
+{"level":"info","message":"Created client session aa9718d6f5d7cc7cc4e784c7","timestamp":"2023-01-08 08:45:56"}
+{"level":"info","message":"Created client session 9beea2002ea18ca470adb178","timestamp":"2023-01-08 08:45:56"}
+{"level":"info","message":"Created client session 1fbe2a7a5d74547cd26b8f96","timestamp":"2023-01-08 08:46:10"}
+{"level":"info","message":"Created client session 63980182564e7767cae1c27f","timestamp":"2023-01-08 08:46:13"}
+{"level":"info","message":"Created client session 8de0b502b48258ed6b0c6a0b","timestamp":"2023-01-08 08:46:14"}
+{"level":"info","message":"Created client session ec114756063444ba8526b9a3","timestamp":"2023-01-08 08:46:14"}
+{"level":"info","message":"Created client session 8e076db67c51588cf33172eb","timestamp":"2023-01-08 08:46:16"}
+{"level":"info","message":"Created client session cb615305df3183c33224312e","timestamp":"2023-01-08 08:46:25"}
+{"level":"info","message":"Created client session 0d2204e865428db78694625c","timestamp":"2023-01-08 08:46:26"}
+{"level":"info","message":"Created client session 11752b0bb2a596c1d5cedbf5","timestamp":"2023-01-08 08:47:35"}
+{"level":"info","message":"Created client session 0a7ebab6ed4c9297432055a2","timestamp":"2023-01-08 08:48:37"}
